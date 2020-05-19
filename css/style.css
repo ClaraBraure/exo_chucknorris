@@ -1,0 +1,20 @@
+div {
+    background-color: white;
+    width: 400px;
+    height: 250px;
+    margin: 200px 500px;
+}
+
+
+button, body {
+    background-color: rosybrown;
+}
+
+button {
+    position:absolute;
+    top: 60%;
+    left: 60%;
+    padding: 8px 10px;
+    border-radius: 5px;
+    color:white
+}
